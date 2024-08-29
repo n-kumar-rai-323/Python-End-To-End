@@ -9,3 +9,4 @@ d = { } # empty dictionary
 
 print(marks, type (marks))
 print(marks["Nishan"])
+print(len(marks))
